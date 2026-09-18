@@ -1,4 +1,6 @@
 # AstroSploit
 
 - AstroSploit is a Packet Exploit Migition
-Coming soon
+Currently obtained only Privated
+
+add - ThreadCrash on dc.
